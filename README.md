@@ -1,6 +1,6 @@
 # Hi there, I'm Pyae Phyo Win 👋
 
-I am a **Full Stack Developer** based in Yangon, currently pursuing my B.Sc (Hons) in Computing from the **University of Greenwich**. I specialize in building robust backend systems, responsive frontend interfaces, and integrating advanced AI/ML solutions.
+I am a **Full Stack Developer** based in Yangon, completed my B.Sc (Hons) in Computing from the **University of Greenwich**. I specialize in building robust backend systems, responsive frontend interfaces, and integrating advanced AI/ML solutions.
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Junior Programmer** at **THETYS Co., Ltd.**
@@ -10,14 +10,13 @@ I am a **Full Stack Developer** based in Yangon, currently pursuing my B.Sc (Hon
 ## 🛠 Tech Stack
 
 ### Languages & Frameworks
-- **Backend:** C# (.NET), PHP (Laravel), Python, Kotlin.
-- **Frontend:** Vue.js, React, React Native, TypeScript, Tailwind CSS.
-- **Database/Tools:** MSSQL, PostgreSQL, Docker, Hangfire.
+- **Backend:** C# (.NET), PHP (Laravel), Python, Kotlin, Hangfire.
+- **Frontend:** Vue.js, React, React Native, TypeScript, Tailwind CSS, Bootstrap.
+- **Database/Tools:** MSSQL, PostgreSQL, MySQL, Docker, EF Core.
 
 ### AI / Machine Learning
 - **Prompt Engineering:** Prompt Evaluation, Structured Output (JSON Mode), Streaming Responses.
-- **Models:** Experience with Multimodal LLMs (Vision), BERT, GPT, and YOLO.
-- **Frameworks:** TensorFlow, PyTorch, and scikit-learn.
+- **Models & Frameworks:** Multimodal LLMs (Vision), BERT, GPT, YOLO, TensorFlow, PyTorch, scikit-learn.
 
 ### Testing & DevOps
 - **API/Performance:** Postman, k6, Playwright.
@@ -25,10 +24,10 @@ I am a **Full Stack Developer** based in Yangon, currently pursuing my B.Sc (Hon
 
 ## 📈 Recent Experience
 - **THETYS Co., Ltd.** | *Junior Programmer* (Aug 2025 – Present)
-  - Developing REST APIs and background jobs using C# and Hangfire.
+  - Developing REST APIs and background jobs using C# (.NET), Hangfire, and MSSQL.
   - Building flow-based interfaces and responsive UIs with Vue.js and shadcn/ui.
 - **MY DAY THU KYWAL** | *AI Model Developer & Trainer* (Jan 2025 – Jul 2025)
-  - Implemented custom ML models for classification and object detection.
+  - Implemented custom ML models for classification and object detection using TensorFlow and PyTorch.
 
 ## 🎓 Education & Certifications
 - **B.Sc (Hons) Computing** – University of Greenwich.
