@@ -1,11 +1,10 @@
-# Hi there, I'm Pyae Phyo Win 👋
+# Hi there, I'm Pyae Phyo Win
 
 I am a **Full Stack Developer** based in Yangon, completed my B.Sc (Hons) in Computing from the **University of Greenwich**. I specialize in building robust backend systems, responsive frontend interfaces, and integrating advanced AI/ML solutions.
 
 ## 🚀 About Me
-- 🔭 I’m currently working as a **Junior Programmer** at **THETYS Co., Ltd.**
-- 🧠 I have professional experience as an **AI Model Developer & Trainer**, working with deep neural networks and transfer learning.
-- 🇯🇵 I am currently expanding my horizons by learning the **Japanese language**.
+- I’m currently working as a **Junior Programmer** at **THETYS Co., Ltd.**
+- I have professional experience as an **AI Model Developer & Trainer**, working with deep neural networks and transfer learning.
 
 ## 🛠 Tech Stack
 
@@ -28,11 +27,6 @@ I am a **Full Stack Developer** based in Yangon, completed my B.Sc (Hons) in Com
   - Building flow-based interfaces and responsive UIs with Vue.js and shadcn/ui.
 - **MY DAY THU KYWAL** | *AI Model Developer & Trainer* (Jan 2025 – Jul 2025)
   - Implemented custom ML models for classification and object detection using TensorFlow and PyTorch.
-
-## 🎓 Education & Certifications
-- **B.Sc (Hons) Computing** – University of Greenwich.
-- **Level 5 & 4 Diploma in Computing** – KMD Institute.
-- **Professional Web Developer** – Fairway.
 
 ## 📬 Connect with Me
 - **Portfolio:** [ppwin-portfolio.vercel.app](https://ppwin-portfolio.vercel.app)
