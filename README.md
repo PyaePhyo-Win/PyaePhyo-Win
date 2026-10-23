@@ -1,37 +1,50 @@
-# Hi there, I'm Pyae Phyo Win
+ 
+<div align="center">
 
-I am a **Full Stack Developer** based in Yangon, completed my B.Sc (Hons) in Computing from the **University of Greenwich**. I specialize in building robust backend systems, responsive frontend interfaces, and integrating advanced AI/ML solutions.
+# Hi, I'm Pyae Phyo Win 👋
 
-## 🚀 About Me
-- I’m currently working as a **Junior Programmer** at **THETYS Co., Ltd.**
-- I have professional experience as an **AI Model Developer & Trainer**, working with deep neural networks and transfer learning.
+### Full Stack Developer · AI/ML Engineer
 
-## 🛠 Tech Stack
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Applications;Crafting+Scalable+.NET+Backends;Exploring+AI+%26+Machine+Learning)](https://git.io/typing-svg)
 
-### Languages & Frameworks
-- **Backend:** C# (.NET), PHP (Laravel), Python, Kotlin, Hangfire.
-- **Frontend:** Vue.js, React, React Native, TypeScript, Tailwind CSS, Bootstrap.
-- **Database/Tools:** MSSQL, PostgreSQL, MySQL, Docker, EF Core.
+📍 Yangon, Myanmar · 🎓 B.Sc. (Hons) Computing
 
-### AI / Machine Learning
-- **Prompt Engineering:** Prompt Evaluation, Structured Output (JSON Mode), Streaming Responses.
-- **Models & Frameworks:** Multimodal LLMs (Vision), BERT, GPT, YOLO, TensorFlow, PyTorch, scikit-learn.
+[**Portfolio**](https://ppwin-portfolio.vercel.app) · [**Email**](mailto:pyaephyowin706@gmail.com)
 
-### Testing & DevOps
-- **API/Performance:** Postman, k6, Playwright.
-- **Workflow:** Git, Docker, GitHub Actions.
-
-## 📈 Recent Experience
-- **THETYS Co., Ltd.** | *Junior Programmer* (Aug 2025 – Present)
-  - Developing REST APIs and background jobs using C# (.NET), Hangfire, and MSSQL.
-  - Building flow-based interfaces and responsive UIs with Vue.js and shadcn/ui.
-- **MY DAY THU KYWAL** | *AI Model Developer & Trainer* (Jan 2025 – Jul 2025)
-  - Implemented custom ML models for classification and object detection using TensorFlow and PyTorch.
-
-## 📬 Connect with Me
-- **Portfolio:** [ppwin-portfolio.vercel.app](https://ppwin-portfolio.vercel.app)
-- **Email:** [pyaephyowin706@gmail.com](mailto:pyaephyowin706@gmail.com)
-- **Location:** Yangon, Myanmar
+</div>
 
 ---
-*“Building digital solutions with a focus on security and intelligence.”*
+
+### 👨‍💻 About Me
+
+- 💼 Junior Programmer at **THETYS Co., Ltd.**
+- ⚙️ Building full-stack applications with **.NET, Vue.js & React**
+- 🤖 Experienced in **AI/ML, deep learning & computer vision**
+- 🚀 Passionate about scalable systems and intelligent applications
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,php,laravel,python,kotlin,vue,react,ts,tailwind,postgres,mysql,docker,git,githubactions,tensorflow,pytorch&perline=9)](https://skillicons.dev)
+
+</div>
+
+### 🧪 Testing & Tools
+
+<div align="center">
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-1785C1?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building digital solutions with a focus on security and intelligence.*
+
+</div>
