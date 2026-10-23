@@ -1,7 +1,7 @@
  
 <div align="center">
 
-# Hi, I'm Pyae Phyo Win 👋
+# Hi, I'm Pyae Phyo Win
 
 ### Full Stack Developer · AI/ML Engineer
 
