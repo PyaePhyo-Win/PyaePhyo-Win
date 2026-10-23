@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Junior Programmer at **THETYS Co., Ltd.**
+- 💼 Web Developer at **AGGA.IO Co., Ltd.**
 - ⚙️ Building full-stack applications with **.NET, Vue.js & React**
 - 🤖 Experienced in **AI/ML, deep learning & computer vision**
 - 🚀 Passionate about scalable systems and intelligent applications
